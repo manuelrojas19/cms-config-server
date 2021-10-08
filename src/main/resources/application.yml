@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com
+          uri: https://github.com/manuelrojas19/cms-config-repo
           clone-on-start: true
+          default-label: main
           search-paths: '{application}'
-          

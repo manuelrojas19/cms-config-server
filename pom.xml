@@ -8,10 +8,10 @@
         <version>2.5.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.manuelr.microservices.cems</groupId>
-    <artifactId>config-server</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>config-server</name>
+    <groupId>com.manuelr.microservices.cms</groupId>
+    <artifactId>cms-config-server</artifactId>
+    <version>1.0</version>
+    <name>cms-config-server</name>
     <description>config-server</description>
     <properties>
         <java.version>11</java.version>
